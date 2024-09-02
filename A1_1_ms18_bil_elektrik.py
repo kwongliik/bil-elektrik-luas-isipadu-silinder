@@ -6,7 +6,7 @@ def main():
     kadar2 = 0.492
 
     # Input
-    e = float(input("Masukkan kadar penggunaan elektrik: "))
+    e = float(input("Masukkan kadar penggunaan elektrik: ")
 
     # Proses
     if e < 201:
@@ -15,7 +15,7 @@ def main():
         bayaran = (200 * .........) + ((e - 200) * .........)
 
     # Output    
-    print(f"bil elektrik = RM{bayara:.2f}")
+    print(f"bil elektrik = RM{bayara:.2f")
 
 # JANGAN ubah kod di bawah
 if __name__ == "__main__":
